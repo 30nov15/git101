@@ -7,7 +7,8 @@
     <title>Introduction to Git and Github by DevAhoy</title>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <h2>Hello Github</h2>
+    <p>Test git 101 </p>
 </body>
 </html>
 
